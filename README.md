@@ -1,4 +1,4 @@
-#Natural-Language-Processing-with-PySpark
+# Spam Detection with PySpark: A Natural Language Processing Project
 
 This project implements a spam detection filter using PySpark. It uses a dataset of text messages classified as either 'ham' (legitimate) or 'spam' and leverages various PySpark ML libraries to preprocess the text and train a logistic regression model for classification.
 
